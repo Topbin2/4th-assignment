@@ -1,5 +1,5 @@
-function AdManagement() {
+const AdManagement = () => {
   return <div>Admanagement1a</div>;
-}
+};
 
 export default AdManagement;
