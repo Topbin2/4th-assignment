@@ -1,5 +1,5 @@
 function AdManagement() {
-  return <div>Admanagement1</div>;
+  return <div>Admanagement1a</div>;
 }
 
 export default AdManagement;
