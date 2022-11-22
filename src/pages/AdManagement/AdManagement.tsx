@@ -1,4 +1,4 @@
-const AdManagement = () => {
+function AdManagement() {
   return <div>Admanagement</div>;
 };
 
